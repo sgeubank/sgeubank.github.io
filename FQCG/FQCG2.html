@@ -1,0 +1,295 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>FQCG's 1905 march</title>
+    <script src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAASI0kCI-azC8RgbOZzWc3VRRarOQe_TKf_51Omf6UUSOFm7EABRRhO0PO4nBAO9FCmVDuowVwROLo3w"
+      type="text/javascript"></script>
+    <script type="text/javascript" src="../lib/jquery-1.6.2.min.js"></script>
+    <script type="text/javascript" src="../lib/mxn/mxn.js?(google)"></script>
+    <script src="../lib/timeline-2.3.0.js" type="text/javascript"></script>
+    <script src="../src/timemap.js" type="text/javascript"></script>
+    <script src="http://www.google.com/jsapi?key=ABQIAAAASI0kCI-azC8RgbOZzWc3VRRarOQe_TKf_51Omf6UUSOFm7EABRRhO0PO4nBAO9FCmVDuowVwROLo3w"></script>
+	<script type="text/javascript">
+    
+var tm;
+$(function() {
+    // initialize timemap
+    tm = TimeMap.init({
+        mapId: "map",
+        timelineId: "timeline",
+        options: {
+            eventIconPath: "../images/"
+        },
+        datasets: [
+            {
+                id: "FQCG",
+                title: "FQCG",
+                theme: "orange",
+                // note that the lines below are now the preferred syntax
+                type: "basic",
+                options: {
+                    items: [
+                        {
+                          "start" : "1905-10-28 18:00",
+                          "end" : "1905-11-04 06:00",
+                          "point" : {
+                              "lat" : 34.70457121039547,
+                              "lon" : -98.50899034881296
+                           },
+                          "title" : "Ft. Sill",
+                          "options" : {
+                            // set the full HTML for the info window
+                            "infoHtml": "<div class='custominfostyle'>wood allowance = 1/6 cord per man per mo.<br> Contract price at Ft. Sill,<br> For oats = $1.23 per 100 lbs<br> For hay = $0.40 <br> For beef = 5 7/10 cents per pound<br> For wood = about $4.00 per cord</div>"
+                          }
+                        },
+                        {
+                          "start" : "1905-11-04 18:00",
+                          "end" : "1905-11-05 06:00",
+                          "point" : {
+                              "lat" : 34.8932103780903,
+                              "lon" : -98.36650037306939
+                           },
+                          "title" : "Apache",
+                          "options" : {
+                            "infoHtml": "<div class='custominfostyle'>3 E &amp; 17 N Sill<br> Fresh beef 115 lbs $6.32<br><br> pop 1616 in 2000</div>"
+                          }
+                        },
+                        {
+                          "start" : "1905-11-05 18:00",
+                          "end" : "1905-11-06 06:00",
+                          "point" : {
+                              "lat" : 35.07331147940495,
+                              "lon" : -98.242074194677
+                           },
+                          "title" : "Anadarko",
+                          "options" : {
+                            "infoHtml": "<div class='custominfostyle'>12 N &amp; 7 E apache<br> Fresh Beef 180 lbs $9.00<br><br> pop 6645 in 2000</div>"
+                          }
+                        },
+                        {
+                          "start" : "1905-11-06 18:00",
+                          "end" : "1905-11-07 06:00",
+                          "point" : {
+                              "lat" : 35.17243958582607,
+                              "lon" : -98.16968379510924
+                           },
+                          "title" : "Spring Creek",
+                          "options" : {
+                            "infoHtml": "<div class='custominfostyle'></div>"
+                          }
+                        },
+                        {
+                          "start" : "1905-11-07 18:00",
+                          "end" : "1905-11-08 06:00",
+                          "point" : {
+                              "lat" : 35.35665911649132,
+                              "lon" : -97.97673355905413
+                           },
+                          "title" : "South Canadian River",
+                          "options" : {
+                            "infoHtml": "<div class='custominfostyle'></div>"
+                          }
+                        },
+                        {
+                          "start" : "1905-11-08 18:00",
+                          "end" : "1905-11-18 06:00",
+                          "point" : {
+                              "lat" : 35.56217707969661,
+                              "lon" : -98.03473753031756
+                           },
+                          "title" : "Fort Reno",
+                          "options" : {
+                            "infoHtml": "<div class='custominfostyle'>30 N and 12 E of Anadarko</div>"
+                          }
+                        },
+                        {
+                          "start" : "1905-11-18 18:00",
+                          "end" : "1905-11-19 06:00",
+                          "point" : {
+                              "lat" : 35.86161247662513,
+                              "lon" : -97.93276593417175
+                           },
+                          "title" : "Kingfisher",
+                          "options" : {
+                            "infoHtml": "<div class='custominfostyle'>6E and 21 N of Reno <br> (3,000)<br> Camp at Fair grounds - fine [???] - see mayor. 1/2 mile East of town on John&apos;s Creek.<br> water near at stream.<br> all purchases in town.<br> all roads good today.<br> No water en route.<br> wood scarce in town but may be purchased from brickyards<br> city has waterworks.<br> 4633 in 2000</div>"
+                          }
+                        },
+                        {
+                          "start" : "1905-11-19 18:00",
+                          "end" : "1905-11-20 06:00",
+                          "point" : {
+                              "lat" : 36.10831557933566,
+                              "lon" : -97.89898669684061
+                           },
+                          "title" : "Hennessy",
+                          "options" : {
+                            "infoHtml": "<div class='custominfostyle'>(2500) fine town.<br> Write to Mr. J. A. Felt, Postmaster &amp; he will arrange everything)<br> Camp at Fair Grounds. Use city mains for water. 1/2 m East town.<br> Roads fair today. In places heavy with mud when wet; elsewhere heavy with sand when dry.<br> All supplies can be purchased on few days&apos; notice but, only wood meat &amp; hay on short notice.<br> For last 2 days railroad practically straight from town to town.<br><br> pop 2058 in 2000</div>"
+                          }
+                        },
+                        {
+                          "start" : "1905-11-20 18:00",
+                          "end" : "1905-11-21 06:00",
+                          "point" : {
+                              "lat" : 36.39102182054501,
+                              "lon" : -97.88895003255564
+                           },
+                          "title" : "Enid",
+                          "options" : {
+                            "infoHtml": "<div class='custominfostyle'>pop 13000<br> Write to Mr. Whiting, Postmaster - very obliging.<br> Camp at Fair Grounds - 1/2 mi South of town.<br> Use city mains for water -<br> Roads very good -<br> All supplies can be purchased in town on short notice -<br> &quot;Tanks&quot; and camp sites en route frequently.<br><br> pop 49,379 in 2010<br> Founded 1893</div>"
+                          }
+                        },
+                        {
+                          "start" : "1905-11-21 18:00",
+                          "end" : "1905-11-22 06:00",
+                          "point" : {
+                              "lat" : 36.66625471649797,
+                              "lon" : -97.80509119044191
+                           },
+                          "title" : "Pond Creek",
+                          "options" : {
+                            "infoHtml": "<div class='custominfostyle'>pop/ 1500<br> Write to Mr. Ferry, Co?? Vidette Office.<br> Camp just south of town. Can use city water or &quot;tank&quot; near.<br> Roads today about 3/4 good, others somewhat sandy.<br> all supplies can be purchased in town on one days notice except wood. Had [???] to use Railroad ties.<br> Many &quot;tanks&quot; &amp; ponds &amp; campsites en route.<br><br> pop 858 in 2010<br> along the Salt Fork Arkansas River</div>"
+                          }
+                        },
+                        {
+                          "start" : "1905-11-22 18:00",
+                          "end" : "1905-11-23 06:00",
+                          "point" : {
+                              "lat" : 36.92374189305894,
+                              "lon" : -97.65379164479485
+                           },
+                          "title" : "Renfrow",
+                          "options" : {
+                            "infoHtml": "<div class='custominfostyle'>pop. 300, ?? [looks like 30, but that doesn&apos;t make sense] stores - good little town.<br> Write to Postmaster or Mr. A. S. Jeel.<br> Good roads today everywhere -<br> Many good camps &amp; water.<br> About one days notice necessary to get hay &amp; oats in town.</div>"
+                          }
+                        },
+                        {
+                          "start" : "1905-11-23 18:00",
+                          "end" : "1905-11-24 06:00",
+                          "point" : {
+                              "lat" : 37.03056613035127,
+                              "lon" : -97.60695891284738
+                           },
+                          "title" : "Caldwell",
+                          "options" : {
+                            "infoHtml": "<div class='custominfostyle'>(Thanksgiving in 1905?)<br> pop. 2500 - plenty of stores.<br> ??? [word used often - looks like &quot;gumbo&quot; or &quot;quinbo&apos;] roads newly worked, bad in wet weather.<br> Camp near stand pipe in west part of town. Get permission from Mayor, use city mains for stock.<br> Do not patronize I. X. Glover.<br><br> pop 1068 in 2010</div>"
+                          }
+                        },
+                        {
+                          "start" : "1905-11-24 18:00",
+                          "end" : "1905-11-25 06:00",
+                          "point" : {
+                              "lat" : 37.26222143961985,
+                              "lon" : -97.37194342871061
+                           },
+                          "title" : "Wellington",
+                          "options" : {
+                            "infoHtml": "<div class='custominfostyle'>Write to Col. Garver, fine old man.<br> Roads today good dirt roads - pretty muddy where shown ni wet weather.<br> Camp on Mr. Sykes place near Poor Farm.<br> water stock near at Slate Creek -<br> wood etc purchased O.K. -<br> Many good camping places found en route.<br><br> pop 8172 in 2010</div>"
+                          }
+                        },
+                        {
+                          "start" : "1905-11-25 18:00",
+                          "end" : "1905-11-26 06:00",
+                          "point" : {
+                              "lat" : 37.48181886749929,
+                              "lon" : -97.37486146165992
+                           },
+                          "title" : "Peck",
+                          "options" : {
+                            "infoHtml": "<div class='custominfostyle'>pop 300.<br> grain elevator, write to J. K. Bell for hay, oats &amp; wood. He owns elevator &amp; may need 1 day&apos;s notice.<br> Roads today very good  - dirt<br> Many good fenced camping grounds -<br> water at River.</div>"
+                          }
+                        },
+                        {
+                          "start" : "1905-11-26 18:00",
+                          "end" : "1905-11-27 06:00",
+                          "point" : {
+                              "lat" : 37.48181886749929,
+                              "lon" : -97.37486146165992
+                           },
+                          "title" : "Wichita",
+                          "options" : {
+                            "infoHtml": "<div class='custominfostyle'>pop 35,000, large area. Roads today very muddy but many recently worked.<br> Camp at South Side River Park, water from River near -<br> wood very difficult to buy. Do not patronize J. H. Turner.<br> Write to Capt. Downing, photographer, Main Street. He will make arrangements<br><br> pop 382,368 in 2010<br> metro area 630,721 in 2011<br> incorporated 1870</div>"
+                          }
+                        },
+                        {
+                          "start" : "1905-11-27 18:00",
+                          "end" : "1905-11-28 06:00",
+                          "point" : {
+                              "lat" : 38.00035,
+                              "lon" : -97.32040277777776
+                           },
+                          "title" : "Newton",
+                          "options" : {
+                            "infoHtml": "<div class='custominfostyle'>Nov 28 pop. 7000<br> main road is a continuation of Lawrence in Wichita, also a road either 1 mi E or 1 mi W of this road. The E road goes straight to Newton and is good in wet weather. It hits 2 mi E of center of town of Newton but is O.K. for those enroute to Peabody -<br> 22 telephone wires on main road, 12 on W. road &amp; none on E road.<br> Hay oats and wood can be purchased in town from Pri??t&apos;s Feed store.<br> Write Mr.Col. Haesington or Mr. Kaufman for information etc.<br><br> pop 19,132 in 2010</div>"
+                          }
+                        },
+												{
+                          "start" : "1905-11-28 18:00",
+                          "end" : "1905-11-29 06:00",
+                          "point" : {
+                              "lat" : 38.16819722222222,
+                              "lon" : -97.10735833333332
+                           },
+                          "title" : "Peabody",
+                          "options" : {
+                            "infoHtml": "<div class='custominfostyle'>Nov. 29 pop. 1000 2 feed stores roads today ?????, good except in wet weather.<br> City water works but not available on outskirts of town.<br> Camp at Santa Fe Stockyards south of town about 1/4 mile on S. Fe tracks.<br> Water in stream near.<br> Write to W. A. Sterling the grain dealer about camp or to Post master.<br><br> pop. 1210 in 2010</div>"
+                          }
+                        },
+                        {
+                          "start" : "1905-11-29 18:00",
+                          "end" : "1905-11-30 06:00",
+                          "point" : {
+                              "lat" : 38.34454811495754,
+                              "lon" : -97.01667599883767
+                           },
+                          "title" : "Marion",
+                          "options" : {
+                            "infoHtml": "<div class='custominfostyle'>Nov. 30 2500 pop. plenty of stores ?????? road, good when dry.<br> Camp in ballpark in East part of town use city mains for stock.<br> Write to Mr. O. C. Billings, the Post master about all arrangements.<br> wood purchased from Mr. Fisch, in ????<br><br> pop. 1927 in 2010. Named for Francis Marion</div>"
+                          }
+                        },
+												{
+                          "start" : "1905-11-30 18:00",
+                          "end" : "1905-12-02 06:00",
+                          "point" : {
+                              "lat" : 38.8574887286236,
+                              "lon" : -96.79172418271128
+                           },
+                          "title" : "Skiddy",
+                          "options" : {
+                            "infoHtml": "<div class='custominfostyle'>Dec 2nd 1 store pop. 50.<br> a good camp 1 mi. North of P.O. in Clark&apos;s Creek<br> also &quot;            &quot; 1/2 &apos; south &quot;           &quot;  &quot;           &quot;  &quot;    &quot;<br> very hard to get hay and oats . Write to Mr. Schmedermon, a farmer &amp; perhaps he can supply forage. P. Mahony &amp; Sons are too high priced &amp; poor stuff.<br> very hilly today.</div>"
+                          }
+                        }
+                    ]
+                }
+            }
+        ],
+        bandIntervals: "day",
+    });
+});
+    </script>
+    <link href="examples.css" type="text/css" rel="stylesheet"/>
+    <link href="http://gmaps-utility-library-dev.googlecode.com/svn/trunk/extinfowindow/examples/css/simpleExampleWindow.css" type="text/css" rel="stylesheet"/>
+    <style>
+    div#timelinecontainer{ height: 100px; }
+    div#mapcontainer{ height: 500px; }
+    div#map {width:100%; float:left}
+    </style>
+  </head>
+
+  <body>
+    <div id="help">
+    <h1>FQCG's 1905 journal</h1>
+    A timeline with synchronized map for Fulton Q.C. Gardner's trip from Ft. Sill to Ft. Riley. Drag the timeline right/left. Click on the place marks or the timeline entries. For more information click <a href="http://home.earthlink.net/~sgeubank/random/11.html#Riley.178"/> here.</a> &quot;this map contains more useful information than any map that has been received at this Headquarters since he has been in command&quot;<br><br>
+Index to some of the various complications of Fulton Q.C. Gardner, 2nd Lt. A. C. [Artillery Corps] QM, [Quarter Master], Comm [Commissary], Eng. Off., Summary Court, Adjutant, etc. etc. Fellow of the Ancient & Honorable Society of Knockers, etc. etc. Ex officio, candidate for Perry's North Pole Expedition, and author of many brochures on how to tie up QM & Comm'2s papers, etc - etc - etc</div>
+    <div id="timemap">
+        <div id="timelinecontainer">
+          <div id="timeline"></div>
+        </div>
+        <div id="mapcontainer">
+          <div id="map"></div>
+          <div id="gemap"></div>
+        </div>
+    </div>
+  </body>
+</html>
