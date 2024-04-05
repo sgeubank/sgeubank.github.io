@@ -374,7 +374,25 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "//uploads.knightlab.com/storymapjs/ec785e3d1308e1d9936377a9e5e1df7b/ft-sill-to-ft-riley/_images/pg88.jpg"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/images/pg88.jpg"
+        },
+        "text" : {
+          "headline" : "Skiddy, Dec 2",
+          "text" : "<p><span>1 store pop. 50.<br>a good camp 1 mi. North of P.O. in Clark' Creek<br>also \"&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\"&nbsp;1/2 \" south \"&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"<br>very hard to get hay and oats . Write to <br>Mr. Schmedermon, a farmer &amp; perhaps he <br>can supply forage. P. Mahony &amp; Sons are <br>too high priced &amp; poor stuff.<br>very hilly today.</span></p>"
+        }
+      },
+      {
+        "date" : "",
+        "location" : {
+          "lat" : 38.8574887286236,
+          "line" : true,
+          "lon" : -96.79172418271128,
+          "zoom" : 12
+        },
+        "media" : {
+          "caption" : "",
+          "credit" : "",
+          "url" : "<iframe srcdoc=\"<p>Hello world!</p>\" src=\"demo_iframe_srcdoc.htm\">\n  <p>Your browser does not support iframes.</p>\n</iframe>"
         },
         "text" : {
           "headline" : "Skiddy, Dec 2",
