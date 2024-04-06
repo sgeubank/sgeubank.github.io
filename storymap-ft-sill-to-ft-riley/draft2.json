@@ -104,7 +104,7 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "<iframe srcdoc=\"<p>Hello world!</p>\" src=\"demo_iframe_srcdoc.htm\">\n  <p>Your browser does not support iframes.</p>\n</iframe>"
+          "url" : "<iframe\n\tclass=\"ajaxzoom_iframe lazy\"\n\twidth=\"100%\"\n\tframeborder=\"0\"\n\tid=\"ajaxzoom_frame_5\"\n\tdata-original=\"example33_vario.php?zoomData=/pic/zoom/furniture/furniture_006.jpg&mouseScrollEnable=1&iframeID=ajaxzoom_frame_5\"\n\tscrolling=\"no\"\n\tallowfullscreen>\n</iframe>"
         },
         "text" : {
           "headline" : "Skiddy, Dec 2",
