@@ -74,3 +74,29 @@ $zoom['config']['useGallery'] = false;
 $zoom['config']['zoomMapRest'] = false;
 $zoom['config']['pic'] = $zoom['config']['installPath'].'/storymap-ft-sill-to-ft-riley/images/'; // string
 
+// Folder where initial images will be written
+// They will be named as pictureFileName+'_'+$zoom['config']['picDim']+'.jpg'
+// This folder should not be password protected!
+// With a slash at the end!
+$zoom['config']['thumbs'] = 'axZm/pic/zoomthumb/'; // string
+
+// Folder where to write temporary zoomed images
+// This folder should not be password protected!
+// With a slash at the end!
+$zoom['config']['temp'] = 'axZm/pic/temp/'; // string
+
+// Folder where to write the thumbs for gallery images
+// They will be named as pictureFileName+'_'+$zoom['config']['galleryPicDim']+'.jpg'
+// or                    pictureFileName+'_'+$zoom['config']['galleryFullPicDim']+'.jpg' if they differ in size
+$zoom['config']['gallery'] = 'axZm/pic/zoomgallery/'; // string
+
+// Folder where thumbnails generated with the PHP API method $axZm->rawThumb() can be optionally cached.
+// Please make sure PHP can write to this directory (chmod)!
+$zoom['config']['tempCache'] = 'axZm/pic/cache/';
+
+// Path where map images are stored when mapOwnImage is set to some size.
+$zoom['config']['mapPath'] = 'axZm/pic/zoommap/';
+
+// 5.0.9+ Path for json files, see also $zoom['config']['jsonInfo']
+$zoom['config']['jsonPath'] = 'axZm/pic/json/';
+
