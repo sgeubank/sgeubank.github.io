@@ -1,2 +1,0 @@
-The axZm_[color].css file will be loaded depending on the value of "themeCss" option defined in config file. 
-It is however recommended to include this file normally after main css file - /axZm/axZm.css
