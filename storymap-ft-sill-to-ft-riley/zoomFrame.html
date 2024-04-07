@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src='jquery.zoom.js'></script>
+<script>
+$(document).ready(function(){
+	const urlParams = new URLSearchParams(window.location.search);
+	const myParam = urlParams.get('name');
+	$("#img").attr("src", "images/" + myParam + ".jpg");
+        $("#span").zoom({ on:'click' });
+});
+</script>
+</head>
+<body>
+	<span class='zoom' id='span'>
+	<img id="img" src="images/Index.jpg" alt="notebook page" width=400 height=400>
+        </span>
+</body>
+</html>
