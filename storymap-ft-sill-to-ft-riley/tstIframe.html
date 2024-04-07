@@ -1,34 +1,6 @@
 <!DOCTYPE html>
 <html>
-<!-- <head>
-		<title>AJAX-ZOOM - responsive image hover zoom (gallery) effect + fullscreen progressive zoom on click</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8">
-		<meta name="description" content="AJAX-ZOOM - responsive image hover zoom (gallery) effect + fullscreen progressive zoom on click" />
-		<meta property="og:image" content="https://www.ajax-zoom.com/pic/layout/thumbs/image-zoom_6_cms.jpg"/>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-		<!-- jQuery core, needed if not present! -->
-		<script type="text/javascript" src="../axZm/plugins/jquery-2.2.4.min.js"></script>
-		<script type="text/javascript" src="../axZm/plugins/jquery-migrate-1.4.1.min.js"></script>
-
-		<!-- AJAX-ZOOM thumbGallery extension, needed! -->
-		<link rel="stylesheet" href="../axZm/extensions/jquery.axZm.hoverThumb.css?pv=5.4.16.0" type="text/css">
-		<script type="text/javascript" src="../axZm/extensions/jquery.axZm.hoverThumb.js?pv=5.4.16.0"></script>
-
-		<!-- Enable fullscreen for IOS when dealing with iframes -->
-		<script type="text/javascript" src="../axZm/axZm.iframe.js?pv=5.4.16.0"></script>
-
-</head>
--->
 <body>
-<iframe
-	class="ajaxzoom_iframe"
-	width="100%"
-	frameborder="0"
-	id="ajaxzoom_frame_5"
-	src="https://www.ajax-zoom.com/examples/example33_vario.php?zoomData=Index.jpg&mouseScrollEnable=1&iframeID=ajaxzoom_frame_5"
-	scrolling="no"
-	allowfullscreen>
-</iframe>
+	<a class="ajaxzoom_iframe" href="javascript:void(0)" onclick="jQuery.axZmAppContainer({iframe: 'example33_vario.php?zoomData=/Index.jpg&example=1&mNavi_enabled=0', title: 'Test title 1'})">Link gallery 1</a>
 </body>
 </html>
