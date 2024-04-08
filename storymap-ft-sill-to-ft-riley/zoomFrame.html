@@ -7,14 +7,15 @@
 $(document).ready(function(){
 	const urlParams = new URLSearchParams(window.location.search);
 	const name = urlParams.get('name');
-	document.getElementById("span").innerHTML = 
-	"<img id='img' src='images/" + name + ".jpg' alt='notebook page' width=400 height=400>";
-        $("#span").zoom({ on:'click' });
+	document.getElementById("NB_image").innerHTML = 
+	"<img id='img' src='images/" + name + ".jpg' alt='notebook page' width=300 height=500>";
+        $("#NB_image").zoom("#NB_image", "img", "img", 2);
+        // $("#NB_image").zoom({ on:'click' magnify:2 });
 });
 </script>
 </head>
 <body>
-	<span class='zoom' id='span'>
-        </span>
+	<div class='zoom' id='NB_image'>
+        </div>
 </body>
 </html>
