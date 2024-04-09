@@ -96,9 +96,9 @@
       {
         "date" : "",
         "location" : {
-          "lat" : 35.35665911649132,
+          "lat" : 35.422161,
           "line" : true,
-          "lon" : -97.97673355905413,
+          "lon" : -98.116266,
           "zoom" : 12
         },
         "media" : {
@@ -132,24 +132,6 @@
       {
         "date" : "",
         "location" : {
-          "lat" : 36.109868,
-          "line" : true,
-          "lon" : -97.898657,
-          "zoom" : 12
-        },
-        "media" : {
-          "caption" : "",
-          "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg100"
-        },
-        "text" : {
-          "headline" : "Hennessey, Nov. 17",
-          "text" : "Hennessey (2500) fine town<br>Write to Mr. J. A. Felt, Postmaster &amp; he will arrange everything)<br>Camp at Fair Grounds. Use city mains for water. 1/2 m East town.<br>Roads fair today. In places heavy with mud when<br>wet; elsewhere heavy with sand when dry.<br>All supplies can be purchased on few days notice<br>but only wood meat &amp; hay on short notice.<br>For last 2 days railroad practically straight from<br>town to town."
-        }
-      },
-      {
-        "date" : "",
-        "location" : {
           "lat" : 35.86161247662513,
           "line" : true,
           "lon" : -97.93276593417175,
@@ -163,6 +145,24 @@
         "text" : {
           "headline" : "Kingfisher, Nov. 18",
           "text" : "<p><span>6E and 21 N of Reno&nbsp;</span></p><p><span>(3,000)</span></p><p><span>&nbsp;Camp at Fair grounds - fine [???] - see mayor. 1/2 mile East of town on John's Creek.<br>water near at stream.<br>all purchases in town.<br>all roads good today.<br>No water en route.<br>wood scarce in town but may be purchased from brickyards<br>city has waterworks.<br>[pop. 4633 in 2000]</span></p>"
+        }
+      },
+      {
+        "date" : "",
+        "location" : {
+          "lat" : 36.109868,
+          "line" : true,
+          "lon" : -97.898657,
+          "zoom" : 12
+        },
+        "media" : {
+          "caption" : "",
+          "credit" : "",
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg100"
+        },
+        "text" : {
+          "headline" : "Hennessey, Nov. 19",
+          "text" : "Hennessey (2500) fine town<br>Write to Mr. J. A. Felt, Postmaster &amp; he will arrange everything)<br>Camp at Fair Grounds. Use city mains for water. 1/2 m East town.<br>Roads fair today. In places heavy with mud when<br>wet; elsewhere heavy with sand when dry.<br>All supplies can be purchased on few days notice<br>but only wood meat &amp; hay on short notice.<br>For last 2 days railroad practically straight from<br>town to town."
         }
       },
       {
@@ -294,9 +294,9 @@
       {
         "date" : "",
         "location" : {
-          "lat" : 37.48181886749929,
+          "lat" : 37.591193,
           "line" : true,
-          "lon" : -97.37486146165992,
+          "lon" : -97.30803,
           "zoom" : 12
         },
         "media" : {
