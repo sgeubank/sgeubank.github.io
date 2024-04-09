@@ -13,7 +13,7 @@
         "media" : {
           "caption" : "For more information click <a href=\"https://sgeubank.github.io/random/11.html#Riley.178\"/> here.</a>",
           "credit" : "FQCG, 1905",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/images/Index.jpg"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=Index"
         },
         "text" : {
           "headline" : "Marching a Battery of Field Artillery from Ft. Sill to Ft. Riley in 1905",
@@ -32,10 +32,10 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/images/pg24-25.jpg"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg24-25"
         },
         "text" : {
-          "headline" : "<A href=“https://en.wikipedia.org/wiki/Fort_Sill”>Ft. Sill</A>",
+          "headline" : "Ft. Sill",
           "text" : "<p><span>wood allowance = 1/6 cord per man per mo.&lt;br&gt; Contract price at <A href=“https://en.wikipedia.org/wiki/Fort_Sill”>Ft. Sill,/A>,<br>\nFor oats = $1.23 per 100 lbs<br>\nFor hay = $0.40 <br>\nFor beef = 5 7/10 cents per pound<br>\nFor wood = about $4.00 per cord\n</span></p>"
         }
       },
@@ -50,11 +50,11 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/images/pg26-27.jpg"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg26-27"
         },
         "text" : {
           "headline" : "Apache, Nov 4",
-          "text" : "<p><span>3 E &amp; 17 N Sill</span></p><p>Fresh beef 115 lbs $6.32</p><p>[pop 1616 in 2000]</p>"
+          "text" : "<p>3 E &amp; 17 N Sill<br>Fresh beef 115 lbs $6.32<br>[pop 1616 in 2000]</p>"
         }
       },
       {
@@ -68,7 +68,7 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/images/pg10-11.jpg"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg10-11"
         },
         "text" : {
           "headline" : "Anadarko, Nov 5",
@@ -91,24 +91,6 @@
         "text" : {
           "headline" : "Spring Creek,  Nov 6",
           "text" : ""
-        }
-      },
-      {
-        "date" : "",
-        "location" : {
-          "lat" : 38.8574887286248,
-          "line" : true,
-          "lon" : -96.79172418271148,
-          "zoom" : 12
-        },
-        "media" : {
-          "caption" : "",
-          "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg97"
-        },
-        "text" : {
-          "headline" : "Skiddy, Dec 2",
-          "text" : "<p><span>1 store pop. 50.<br>a good camp 1 mi. North of P.O. in Clark' Creek<br>also \"&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\"&nbsp;1/2 \" south \"&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"<br>very hard to get hay and oats . Write to <br>Mr. Schmedermon, a farmer &amp; perhaps he <br>can supply forage. P. Mahony &amp; Sons are <br>too high priced &amp; poor stuff.<br>very hilly today.</span></p>"
         }
       },
       {
@@ -140,7 +122,7 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : ""
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg106"
         },
         "text" : {
           "headline" : "Fort Reno, Nov 8 - 18",
@@ -158,7 +140,7 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/images/pg100.jpg"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg100"
         },
         "text" : {
           "headline" : "Hennessey, Nov. 17",
@@ -176,7 +158,7 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/images/pg101.jpg"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg101"
         },
         "text" : {
           "headline" : "Kingfisher, Nov. 18",
@@ -194,7 +176,7 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/images/pg99.jpg"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg99"
         },
         "text" : {
           "headline" : "Enid, Nov 20",
@@ -212,7 +194,7 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/images/pg98.jpg"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg98"
         },
         "text" : {
           "headline" : "Pond Creek, Nov 21",
@@ -230,7 +212,7 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/images/pg97.jpg"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=97.jpg"
         },
         "text" : {
           "headline" : "Renfrow, Nov. 22",
@@ -248,7 +230,7 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/images/pg96.jpg"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg96"
         },
         "text" : {
           "headline" : "Caldwell, Nov. 23 [Thanksgiving in 1905?]",
@@ -266,7 +248,7 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/images/pg95.jpg"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg95"
         },
         "text" : {
           "headline" : "Wellington, Nov. 25",
@@ -284,7 +266,25 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/images/pg94.jpg"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg94"
+        },
+        "text" : {
+          "headline" : "Peck, Nov 25",
+          "text" : "<p>Wellington<br>Col. Garver<br> Camp [??] by H. A. Sykes - fire<br>wood $6 cord<br>water in poor form<br>[??] Feed Mills oats 1.09¢ hay 40¢<br>meat Farland &amp; Knowles</p>\n<p>Peck<br>camp in pasture beyond school house<br>owned by Chas. Killebrecht $10<br>R. R. ties J. D. Laudermilk - blacksmith<br>Forage probably OK telephone [??]<br>water in front of hotel - ([??] 25¢)</p>\n<p>Wichita<br>wood J. H. Turner $6 cord poor cond [??]<br>Central Mills oats 37¢ 40¢ hay<br>Camp Com. Mauteroom[??] - Central Ave -<br>[??] about Riverside p[??]<br>See Capt.Darming[??] - [??] on Main St<br>Beef Jacob Dole Paertin Co, cheap</p>"
+        }
+      },
+      {
+        "date" : "",
+        "location" : {
+          "lat" : 37.48181886749929,
+          "line" : true,
+          "lon" : -97.37486146165992,
+          "zoom" : 12
+        },
+        "media" : {
+          "caption" : "",
+          "credit" : "",
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg75"
         },
         "text" : {
           "headline" : "Peck, Nov 25",
@@ -302,7 +302,7 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/images/pg93.jpg"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg93"
         },
         "text" : {
           "headline" : "Wichita, Nov 27",
@@ -320,7 +320,7 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/images/pg92.jpg"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg92"
         },
         "text" : {
           "headline" : "Newton, Nov 28",
@@ -338,7 +338,7 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/images/pg91.jpg"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg91"
         },
         "text" : {
           "headline" : "Peabody, nov. 29",
@@ -356,7 +356,7 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/images/pg90.jpg"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg90"
         },
         "text" : {
           "headline" : "Marion, Nov 30",
@@ -366,19 +366,37 @@
       {
         "date" : "",
         "location" : {
-          "lat" : 38.671119,
+          "lat" : 37.8791795,
           "line" : true,
-          "lon" : -96.942514,
+          "lon" : -97.2128162,
           "zoom" : 12
         },
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/images/pg89.jpg"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg76"
         },
         "text" : {
-          "headline" : "Herington, Dec. 1",
-          "text" : "pop 1500<br>But one feed store (Herington Mills) and<br>that unable [??] to stock the Q.M.<br>Camp in ball park in North end of town<br>ask mayor. plenty of water in ponds [??]<br>for horses &amp; men.<br>fine roads today. gumbo frozen"
+          "headline" : "Furley, Peabody, Ne?? Quarry, Dec. 1",
+          "text" : "<p>Furley<br>Jones, farmer - wood for nothing<br>Probably can’t buy forage at Furley<br>Creek about 2 1/2 mi beyond Furley<br>water in creek in pasture<br>[2020 pop: 39]</p>\n<p> Peabody<br>oats hay wood from ??, Stirling<br>he can get camp grounds - creek near<br>Beef at ?? Detrick<br>[2020 pop: 937]</p>\n<p>Ne?? Quarry (2 mi south of ??)<br>on farm owned by Carlos A. Stebbins<br>1/2 m E of school house - wood from him<br>nice fellow - water in creek<br>no forage here - perhaps at Antelope<br>by telephoning</p>"
+        }
+      },
+      {
+        "date" : "",
+        "location" : {
+          "lat" : 37.8791795,
+          "line" : true,
+          "lon" : -97.2128162,
+          "zoom" : 12
+        },
+        "media" : {
+          "caption" : "",
+          "credit" : "",
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg77"
+        },
+        "text" : {
+          "headline" : "Herrington and Skiddy, Dec. 1",
+          "text" : "<p>Herrington<br>R. E. Thompson prop. Herrington Milling Co.<br>ask him about camping in ??<br>ball park but oats at 45¢??<br>?? ate bought from him also handles meat through<br>his brother - also meat market<br>called ?????? Oilky??<br> water in park creek</p>\n<p>Skiddy<br>Camp free in open ?? about 1 mi this<br>side of town - water near -<br>wood - hay &amp; oats from P. Maloney<br>telephone him</p>"
         }
       },
       {
@@ -392,11 +410,29 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/images/pg88.jpg"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg88"
         },
         "text" : {
           "headline" : "Skiddy, Dec 2",
           "text" : "<p><span>1 store pop. 50.<br>a good camp 1 mi. North of P.O. in Clark' Creek<br>also \"&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\"&nbsp;1/2 \" south \"&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"<br>very hard to get hay and oats . Write to <br>Mr. Schmedermon, a farmer &amp; perhaps he <br>can supply forage. P. Mahony &amp; Sons are <br>too high priced &amp; poor stuff.<br>very hilly today.</span></p>"
+        }
+      },
+      {
+        "date" : "",
+        "location" : {
+          "lat" : 38.671119,
+          "line" : true,
+          "lon" : -96.942514,
+          "zoom" : 12
+        },
+        "media" : {
+          "caption" : "",
+          "credit" : "",
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg89"
+        },
+        "text" : {
+          "headline" : "Herington, Dec. 1",
+          "text" : "pop 1500<br>But one feed store (Herington Mills) and<br>that unable [??] to stock the Q.M.<br>Camp in ball park in North end of town<br>ask mayor. plenty of water in ponds [??]<br>for horses &amp; men.<br>fine roads today. gumbo frozen"
         }
       }
     ],
