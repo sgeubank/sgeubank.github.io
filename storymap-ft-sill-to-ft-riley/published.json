@@ -36,7 +36,7 @@
         },
         "text" : {
           "headline" : "Ft. Sill",
-          "text" : "<p><span>wood allowance = 1/6 cord per man per mo.&lt;br&gt; Contract price at <A href=“https://en.wikipedia.org/wiki/Fort_Sill”>Ft. Sill,/A>,<br>\nFor oats = $1.23 per 100 lbs<br>\nFor hay = $0.40 <br>\nFor beef = 5 7/10 cents per pound<br>\nFor wood = about $4.00 per cord\n</span></p>"
+          "text" : "<p><span>wood allowance = 1/6 cord per man per mo.<br>Contract price at <a href=“https://en.wikipedia.org/wiki/Fort_Sill”>Ft. Sill,</a>,<br>\nFor oats = $1.23 per 100 lbs<br>\nFor hay = $0.40 <br>\nFor beef = 5 7/10 cents per pound<br>\nFor wood = about $4.00 per cord\n</span></p>\n<p>\nSend duplicate Bill lading sent me<br>to Depot Q. M. Chicago, for Rock<br>Island R.R. and to Omaha, Neb.<br>for Union Pacific R. R.</p>\n<p>In case of toll bridges, etc. pay<br>on voucher B, for services redered<br>and in case of company etc. read Reg.</p>\n<p>Have all vouchers signed at<br>bottom by ?? before I write his<br>name at the top.</p>\n<p>Make all vouchers in duplicate and<br>all leases in triplicate having<br>?? sign all copies</p>\n<p>Get mail at Anadarko, Reno<br>Kingfisher.</p>"
         }
       },
       {
@@ -122,7 +122,7 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg106"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg102"
         },
         "text" : {
           "headline" : "Fort Reno, Nov 8 - 18",
@@ -144,7 +144,7 @@
         },
         "text" : {
           "headline" : "Hennessey, Nov. 17",
-          "text" : "Hennessey (2500) fine town<br>Write to Mr. J. A. Felt, Postmaster &amp; he will arrange everything)<br>Camp at Fair Grounds. Use city mains for water. 1/2 m East town.<br>Roads fair today. In places heavy with mud when<br>wet; elsewhere heavy with sand when dry.<br>All supplies can be purchased on few days notice<br>but only wood meat &amp; hay on short notice.<br>For last 2 days railroad practically straight from town to town.<br><br><br>"
+          "text" : "Hennessey (2500) fine town<br>Write to Mr. J. A. Felt, Postmaster &amp; he will arrange everything)<br>Camp at Fair Grounds. Use city mains for water. 1/2 m East town.<br>Roads fair today. In places heavy with mud when<br>wet; elsewhere heavy with sand when dry.<br>All supplies can be purchased on few days notice<br>but only wood meat &amp; hay on short notice.<br>For last 2 days railroad practically straight from<br>town to town."
         }
       },
       {
@@ -212,7 +212,7 @@
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=97.jpg"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg97"
         },
         "text" : {
           "headline" : "Renfrow, Nov. 22",
@@ -330,6 +330,24 @@
       {
         "date" : "",
         "location" : {
+          "lat" : 37.8791795,
+          "line" : true,
+          "lon" : -97.2128162,
+          "zoom" : 12
+        },
+        "media" : {
+          "caption" : "",
+          "credit" : "",
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg76"
+        },
+        "text" : {
+          "headline" : "Furley, Peabody, Ne?? Quarry, Dec. 1",
+          "text" : "<p>Furley<br>Jones, farmer - wood for nothing<br>Probably can’t buy forage at Furley<br>Creek about 2 1/2 mi beyond Furley<br>water in creek in pasture<br>[2020 pop: 39]</p>\n<p> Peabody<br>oats hay wood from ??, Stirling<br>he can get camp grounds - creek near<br>Beef at ?? Detrick<br>[2020 pop: 937]</p>\n<p>Ne?? Quarry (2 mi south of ??)<br>on farm owned by Carlos A. Stebbins<br>1/2 m E of school house - wood from him<br>nice fellow - water in creek<br>no forage here - perhaps at Antelope<br>by telephoning</p>"
+        }
+      },
+      {
+        "date" : "",
+        "location" : {
           "lat" : 38.16819722222222,
           "line" : true,
           "lon" : -97.10735833333332,
@@ -366,27 +384,27 @@
       {
         "date" : "",
         "location" : {
-          "lat" : 37.8791795,
+          "lat" : 38.671119,
           "line" : true,
-          "lon" : -97.2128162,
+          "lon" : -96.942514,
           "zoom" : 12
         },
         "media" : {
           "caption" : "",
           "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg76"
+          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg89"
         },
         "text" : {
-          "headline" : "Furley, Peabody, Ne?? Quarry, Dec. 1",
-          "text" : "<p>Furley<br>Jones, farmer - wood for nothing<br>Probably can’t buy forage at Furley<br>Creek about 2 1/2 mi beyond Furley<br>water in creek in pasture<br>[2020 pop: 39]</p>\n<p> Peabody<br>oats hay wood from ??, Stirling<br>he can get camp grounds - creek near<br>Beef at ?? Detrick<br>[2020 pop: 937]</p>\n<p>Ne?? Quarry (2 mi south of ??)<br>on farm owned by Carlos A. Stebbins<br>1/2 m E of school house - wood from him<br>nice fellow - water in creek<br>no forage here - perhaps at Antelope<br>by telephoning</p>"
+          "headline" : "Herington, Dec. 1",
+          "text" : "pop 1500<br>But one feed store (Herington Mills) and<br>that unable [??] to stock the Q.M.<br>Camp in ball park in North end of town<br>ask mayor. plenty of water in ponds [??]<br>for horses &amp; men.<br>fine roads today. gumbo frozen"
         }
       },
       {
         "date" : "",
         "location" : {
-          "lat" : 37.8791795,
+          "lat" : 38.673611,
           "line" : true,
-          "lon" : -97.2128162,
+          "lon" : -96.944722,
           "zoom" : 12
         },
         "media" : {
@@ -395,8 +413,8 @@
           "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg77"
         },
         "text" : {
-          "headline" : "Herrington and Skiddy, Dec. 1",
-          "text" : "<p>Herrington<br>R. E. Thompson prop. Herrington Milling Co.<br>ask him about camping in ??<br>ball park but oats at 45¢??<br>?? ate bought from him also handles meat through<br>his brother - also meat market<br>called ?????? Oilky??<br> water in park creek</p>\n<p>Skiddy<br>Camp free in open ?? about 1 mi this<br>side of town - water near -<br>wood - hay &amp; oats from P. Maloney<br>telephone him</p>"
+          "headline" : "Herington and Skiddy, Dec. 1",
+          "text" : "<p>Herington<br>R. E. Thompson prop. Herrington Milling Co.<br>ask him about camping in ??<br>ball park but oats at 45¢??<br>?? ate bought from him also handles meat through<br>his brother - also meat market<br>called ?????? OK<br> water in park creek<br>[2020 pop. 2,109; 1910: 3,273; 1900: 1,607]</p>\n<p>Skiddy<br>Camp free in open ?? about 1 mi this<br>side of town - water near -<br>wood - hay &amp; oats from P. Maloney<br>telephone him</p>"
         }
       },
       {
@@ -415,24 +433,6 @@
         "text" : {
           "headline" : "Skiddy, Dec 2",
           "text" : "<p><span>1 store pop. 50.<br>a good camp 1 mi. North of P.O. in Clark' Creek<br>also \"&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\"&nbsp;1/2 \" south \"&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"<br>very hard to get hay and oats . Write to <br>Mr. Schmedermon, a farmer &amp; perhaps he <br>can supply forage. P. Mahony &amp; Sons are <br>too high priced &amp; poor stuff.<br>very hilly today.</span></p>"
-        }
-      },
-      {
-        "date" : "",
-        "location" : {
-          "lat" : 38.671119,
-          "line" : true,
-          "lon" : -96.942514,
-          "zoom" : 12
-        },
-        "media" : {
-          "caption" : "",
-          "credit" : "",
-          "url" : "https://sgeubank.github.io/storymap-ft-sill-to-ft-riley/zoomFrame.html?name=pg89"
-        },
-        "text" : {
-          "headline" : "Herington, Dec. 1",
-          "text" : "pop 1500<br>But one feed store (Herington Mills) and<br>that unable [??] to stock the Q.M.<br>Camp in ball park in North end of town<br>ask mayor. plenty of water in ponds [??]<br>for horses &amp; men.<br>fine roads today. gumbo frozen"
         }
       }
     ],
